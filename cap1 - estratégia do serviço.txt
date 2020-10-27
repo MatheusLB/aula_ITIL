@@ -1,0 +1,43 @@
+ITIL
+
+-->Boas práticas
+
+-->Processos 
+
+-->serviços de t.i
+
+foco: pessoas e processos
+
+Serviços ciclo de vida
+Estratégia: ase de estratégia de serviço é uma grande “sacada” na ITIL V3. Nesse ponto, a TI se integra com o negócio da empresa. A estratégia de serviço
+ prevê e conceitua um conjunto de serviços que ajuda o negócio a alcançar seu objetivo
+
+Desenho: Desenha ou cria o serviço tendo em mente objetivos de utilidade e garantia
+
+Transição: Move os serviços para o ambiente de produção
+
+Operação: Gerencia os serviços em produção para assegurar que seus objetivos de utilidade e garantia sejam alcançados
+
+Melhoria: Avalia os serviços e identifica formas de melhorar a utilidade e a garantia no suporte aos objetivos do negócio
+
+
+  **  Entender as demandas dos clientes.
+  **  Identificar as oportunidades e os riscos.
+  **  Decidir por terceirizar ou não os serviços, sempre pensando no retorno para o negócio.]
+
+
+cenario : impressao de arquivo
+
+
+Pessoas: usuários que vão imprimir
+
+processos: acões a serem executadas
+
+produtos: sistemas e maquinas
+
+parceiros: fornecedores de tinta, cartucho e papel
+
+
+o serviço precisa ser adequado a seu propósito e a seu uso. A utilidade corresponde ao que o cliente recebe. Já a garantia dá sustentabilidade ao que está 
+sendo entregue. Ambos – utilidade e garantia – são essenciais à criação de valor para o cliente
+
