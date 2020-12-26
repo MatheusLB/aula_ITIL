@@ -1,43 +1,43 @@
 ITIL
 
--->Boas práticas
+-->Boas prï¿½ticas
 
 -->Processos 
 
--->serviços de t.i
+-->serviï¿½os de t.i
 
 foco: pessoas e processos
 
-Serviços ciclo de vida
-Estratégia: ase de estratégia de serviço é uma grande “sacada” na ITIL V3. Nesse ponto, a TI se integra com o negócio da empresa. A estratégia de serviço
- prevê e conceitua um conjunto de serviços que ajuda o negócio a alcançar seu objetivo
+Serviï¿½os ciclo de vida
+Estratï¿½gia: ase de estratï¿½gia de serviï¿½o ï¿½ uma grande ï¿½sacadaï¿½ na ITIL V3. Nesse ponto, a TI se integra com o negï¿½cio da empresa. A estratï¿½gia de serviï¿½o
+ prevï¿½ e conceitua um conjunto de serviï¿½os que ajuda o negï¿½cio a alcanï¿½ar seu objetivo
 
-Desenho: Desenha ou cria o serviço tendo em mente objetivos de utilidade e garantia
+Desenho: Desenha ou cria o serviï¿½o tendo em mente objetivos de utilidade e garantia
 
-Transição: Move os serviços para o ambiente de produção
+Transiï¿½ï¿½o: Move os serviï¿½os para o ambiente de produï¿½ï¿½o
 
-Operação: Gerencia os serviços em produção para assegurar que seus objetivos de utilidade e garantia sejam alcançados
+Operaï¿½ï¿½o: Gerencia os serviï¿½os em produï¿½ï¿½o para assegurar que seus objetivos de utilidade e garantia sejam alcanï¿½ados
 
-Melhoria: Avalia os serviços e identifica formas de melhorar a utilidade e a garantia no suporte aos objetivos do negócio
+Melhoria: Avalia os serviï¿½os e identifica formas de melhorar a utilidade e a garantia no suporte aos objetivos do negï¿½cio
 
 
   **  Entender as demandas dos clientes.
   **  Identificar as oportunidades e os riscos.
-  **  Decidir por terceirizar ou não os serviços, sempre pensando no retorno para o negócio.]
+  **  Decidir por terceirizar ou nï¿½o os serviï¿½os, sempre pensando no retorno para o negï¿½cio.]
 
 
 cenario : impressao de arquivo
 
 
-Pessoas: usuários que vão imprimir
+Pessoas: usuï¿½rios que vï¿½o imprimir
 
-processos: acões a serem executadas
+processos: acï¿½es a serem executadas
 
 produtos: sistemas e maquinas
 
 parceiros: fornecedores de tinta, cartucho e papel
 
 
-o serviço precisa ser adequado a seu propósito e a seu uso. A utilidade corresponde ao que o cliente recebe. Já a garantia dá sustentabilidade ao que está 
-sendo entregue. Ambos – utilidade e garantia – são essenciais à criação de valor para o cliente
+o serviÃ§o precisa ser adequado a seu propï¿½sito e a seu uso. A utilidade corresponde ao que o cliente recebe. Jï¿½ a garantia dï¿½ sustentabilidade ao que estï¿½ 
+sendo entregue. Ambos ï¿½ utilidade e garantia ï¿½ sï¿½o essenciais ï¿½ criaï¿½ï¿½o de valor para o cliente
 

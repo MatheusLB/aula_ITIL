@@ -1,0 +1,46 @@
+###### Transição de Serviço de TI
+
+transição de serviço planeja e gerencia a capacidade e os recursos necessários para empacotar, construir, testar 
+e implementar uma liberação em produção.
+Outro propósito importante é a garantia de que um serviço pode ser gerenciado, operado e suportado levando em consideração 
+os requisitos e as restrições especificadas no desenho de serviço.
+
+
+### GERENCIMENTO DE CONFIGURAÇÃO
+
+Os itens de hardware e software
+Os acordos de Nível de Serviço
+Os planos de recuperação de desastres
+As políticas.
+
+
+### GERENCIAMENTO DE MUDANÇA
+
+
+Planejamento
+
+Plano com escopo, conteúdo da liberação, riscos, responsabilidades e interessados na liberação.
+
+
+Preparação para construção, teste e implantação
+
+Validação do serviço novo ou atual, baseada no desenho de serviço.
+
+
+Construção e teste
+
+Gerenciamento de todo o desenvolvimento do serviço.
+
+
+Teste de serviço e pilotos
+
+Realização de todos os testes para verificar se tudo está funcionando corretamente e de acordo com as especificações do negócio.
+
+###Conclusão
+
+Quando se conhece a estrutura de TI, fica mais fácil gerenciá-la. Além disso, as informações sobre os itens de configuração
+são mantidas na Base de Dados do Gerenciamento de Configuração (BDGC). Tais informações são corretas, atualizadas e podem
+ser usadas nos processos de gerenciamento de incidente, de problema e de mudança. A ideia é, exatamente, permitir o uso
+das informações do BDG para esses processos.
+
+
